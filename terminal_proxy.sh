@@ -1,4 +1,5 @@
 #!bin/bash
+#
 function proxy_on(){
 	export ALL_PROXY=socks5://127.0.0.1:7891
 	export http_proxy=http://127.0.0.1:7890
