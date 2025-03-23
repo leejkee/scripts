@@ -4,3 +4,6 @@
 ```shell
 source ~/scripts/terminal_proxy.sh
 ```
+- SyncFile
+一个使用python实现的命令行工具，将目标目录ResourceDir的文件同步到指定目录DestinationDir
+[Docs here](doc/SyncFile/README.md)
